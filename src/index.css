@@ -11,3 +11,42 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.nameCol{
+  color: #c86e26;
+  text-align: center;
+}
+.myBox{
+
+  background: rgba(51, 53, 55, 0.5);
+
+  border: 2px solid #f39940;
+
+}
+.backBtn{
+  padding: 8px 60px;
+  border-radius: 8px;
+  color: aliceblue;
+  background: green;
+}
+.formMy{
+  border: 1px solid orange;
+  box-shadow: #f37c22;
+  padding: 8px 10px;
+  border-radius: 20px;
+  font-size: 14px;
+}
+.myLink{
+  color: #fcf9f9;
+  margin: 6px;
+  font-size: 14px;
+}
+.hero{
+  height: 100vh;
+
+}
+.myText{
+  color: #fcf9f9;
+}
+.textColor{
+  color: #f38b37;
+}
